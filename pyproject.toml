@@ -1,0 +1,5 @@
+[project]
+name = "poker-reward-2"
+version = "0.1.0"
+description = "Ranking detector"
+requires-python = ">=3.10"
