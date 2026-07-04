@@ -4,7 +4,7 @@
   "framework": "mlp-runtime",
   "license": "MIT",
   "repo_url": "https://github.com/browndev7777-alt/poker_reward_2",
-  "artifact_sha256": "050ad4fa3a02e27950b7a7285fcf6bb84edb1ed62149bed20bef323d491ef22d",
+  "artifact_sha256": "2086f2015b33c80b1ef4f02713951ace7f8364afda32948217889642c99d72d2",
   "open_source": true,
   "inference_mode": "local-joblib",
   "data_attestation": "No validator-private evaluation labels are used for training. Training uses released benchmark data and local runtime features.",
