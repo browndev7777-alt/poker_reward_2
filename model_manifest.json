@@ -9,7 +9,7 @@
   "repo_commit": "",
   "artifact_sha256": "3e2ca9849ace1b37add29d228365e373f4e2afda55a787228f974d1545ad7afc",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "78c3fe3d0f966695badc32a29dacacbfadaad148004a6ffc4817e947f7b9eee2",
+  "implementation_sha256": "5b200bb5426ff96fcab44112515a02e4a29d2da691638e354fdd94a3cba15e05",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
